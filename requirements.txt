@@ -1,0 +1,9 @@
+plotly
+numpy
+seaborn
+matplotlib
+xgboost
+sklearn
+json
+streamlit
+streamlit_pandas_profiling
